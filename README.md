@@ -1,16 +1,16 @@
-# desafio_agendamento
+# Agendamento de Postagem
 
-A new Flutter project.
+## Tecnologias e Arquitetura Utilizadas
 
-## Getting Started
+- **Arquitetura:** MVVM (Model - View - ViewModel)
+- **Gerenciamento de Estado:** [`Provider`](https://pub.dev/packages/provider)
+- **Responsividade:** Interfaces adaptáveis conforme o tamanho da tela, otimizando a experiência em diferentes dispositivos
 
-This project is a starting point for a Flutter application.
+## Considerações
 
-A few resources to get you started if this is your first Flutter project:
+Desenvolvi o projeto utilizando a arquitetura MVVM, com foco em boas práticas e padronização, garantindo uma estrutura de fácil leitura e manutenção. O gerenciamento de estado foi implementado com o Provider, proporcionando uma lógica bem organizada e previsível.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para tornar a interface mais dinâmica e visualmente agradável, as imagens (5) são exibidas de forma aleatória, evitando repetições excessivas e contribuindo para uma apresentação mais limpa e atrativa.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
